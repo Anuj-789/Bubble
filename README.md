@@ -95,19 +95,6 @@ When collision occurs:
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
-Example:
-
-```
-![Game Screenshot](images/game-screen.png)
-<img width="737" height="600" alt="image" src="https://github.com/user-attachments/assets/9f7ab2de-e585-47f2-95f7-3b60781b465b" />
-
-```
-
----
 
 ## 🚀 Run Locally
 
@@ -172,3 +159,5 @@ https://github.com/anuj-789
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
+
