@@ -103,6 +103,8 @@ Example:
 
 ```
 ![Game Screenshot](images/game-screen.png)
+<img width="737" height="600" alt="image" src="https://github.com/user-attachments/assets/9f7ab2de-e585-47f2-95f7-3b60781b465b" />
+
 ```
 
 ---
